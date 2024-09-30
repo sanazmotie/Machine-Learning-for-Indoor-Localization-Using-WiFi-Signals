@@ -1,5 +1,4 @@
 # Machine-Learning-for-Indoor-Localization-Using-WiFi-Signals
-# Indoor Localization Using Machine Learning
 
 This repository contains the implementation of several machine learning algorithms for fingerprint-based indoor localization using WiFi signals. The project focuses on predicting indoor positions based on WiFi RSSI values and provides a comparative analysis of different algorithms using the UJIIndoorLoc dataset.
 
